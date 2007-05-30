@@ -1,0 +1,9 @@
+= Syntax Highlighter
+
+This extension is a simple adaptation of the Code Behavior by 
+Alexander Jentz using the CodeRay engine.
+
+It currently only works with CodeRay being installed as a Gem not as a
+plugin.
+
+Comments, bugs, praise and flames to Oliver Baltzer <oliver@hytek.org>.
